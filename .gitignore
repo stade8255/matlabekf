@@ -1,0 +1,65 @@
+Controls_true.adm
+Controls_true.cmd
+Controls_true.m
+Controls_true.xmt_txt
+adamsimu.slx
+anglex.eps
+anglex.mat
+angley.eps
+angley.mat
+anglez.eps
+anglez.mat
+data.m
+data.mat
+expdata/A IMU/A absanglex.txt
+expdata/A IMU/A absangley.txt
+expdata/A IMU/A angularx.txt
+expdata/A IMU/A angulary.txt
+expdata/A IMU/A finalanglex.txt
+expdata/A IMU/A finalangley.txt
+expdata/A IMU/IMUaccelx.txt
+expdata/A IMU/IMUaccely.txt
+expdata/A IMU/IMUaccelz.txt
+expdata/A IMU/IMUvelx.txt
+expdata/A IMU/IMUvely.txt
+expdata/A IMU/IMUvelz.txt
+expdata/A push_recovery/CMP/CMP_error.txt
+expdata/A push_recovery/CMP/CMPposition.txt
+expdata/A push_recovery/CMP/COG_Angmoment.txt
+expdata/A push_recovery/CMP/COG_Linearmoment.txt
+expdata/A push_recovery/CMP/cogerror.txt
+expdata/A push_recovery/COG/AgEnc_FKCOG.txt
+expdata/A push_recovery/COG/AngleX.txt
+expdata/A push_recovery/COG/AngleY.txt
+expdata/A push_recovery/COG/AngleZ.txt
+expdata/A push_recovery/COG/Dcogstatelateral.txt
+expdata/A push_recovery/COG/Dcogstatesagittal.txt
+expdata/A push_recovery/COG/Estimated_COG_lateral.txt
+expdata/A push_recovery/COG/Estimated_COG_sagittal.txt
+expdata/A push_recovery/COG/ZMP_lateral.txt
+expdata/A push_recovery/COG/ZMP_sagittal.txt
+expdata/A push_recovery/COG/force_data_ZMP.txt
+expdata/A push_recovery/FilterAccelLateral.txt
+expdata/A push_recovery/FilterAccelSagittal.txt
+expdata/A push_recovery/LFX.txt
+expdata/A push_recovery/message.txt
+expdata/A push_recovery/steplength.txt
+expdata/Control_IMU/absangle_pitch.txt
+expdata/Control_IMU/absangle_roll.txt
+expdata/Control_IMU/accel_pitch.txt
+expdata/Control_IMU/accel_roll.txt
+expdata/Control_IMU/angular_pitch.txt
+expdata/Control_IMU/angular_roll.txt
+expdata/Control_IMU/finalangle_pitch.txt
+expdata/Control_IMU/finalangle_roll.txt
+expdata/Control_IMU/vel_pitch.txt
+expdata/Control_IMU/vel_roll.txt
+expdata/f1.fig
+expdata/f1.png
+expdata/f2.fig
+expdata/f2.png
+position.eps
+speedX.eps
+speedY.eps
+square.bin
+square.biq
